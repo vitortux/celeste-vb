@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Celestinhoo
+</name>
+</assembly>
+<members>
+<member name="P:Celestinhoo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Badeline">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Cassette">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.CelesteBackground">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.CelesteMountain">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.CelestialResort">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.CrystalHeart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Crystals">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.CrystalSpikes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Falling">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.ForsakenCity">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.GoldenMoranguinho">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.GoldenRidge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Granny">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Madeline">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.MirrorTemple">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Moranguinho">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Objetos">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.OldSite">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Oshiro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.PrologueLoop">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Reflection">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Spikes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.Theo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Celestinhoo.My.Resources.Resources.TheSummit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Celestinhoo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

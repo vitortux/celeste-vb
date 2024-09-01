@@ -1,0 +1,12 @@
+C:\Users\PC\AppData\Local\Temporary Projects\Celestinhoo\bin\Debug\Celestinhoo.exe.config
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\bin\Debug\Celestinhoo.exe.config
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\obj\Debug\Celestinhoo.Form1.resources
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\obj\Debug\Celestinhoo.Resources.resources
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\obj\Debug\Celestinhoo.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\bin\Debug\Celestinhoo.exe
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\bin\Debug\Celestinhoo.pdb
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\bin\Debug\Celestinhoo.xml
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\obj\Debug\Celestinhoo.exe
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\obj\Debug\Celestinhoo.xml
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\obj\Debug\Celestinhoo.pdb
+C:\Users\PC\Desktop\Técnico\DS\projetos\Celestinhoo\Celestinhoo\obj\Debug\Celestinhoo.SplashScreen1.resources
