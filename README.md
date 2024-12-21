@@ -1,6 +1,6 @@
 # Celeste VB Showcase
 
-![Celeste Showcase](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.steamgriddb.com%2Fgame%2F13136&psig=AOvVaw1KPkJ5FpscAHu6o3unAX6U&ust=1734834976543000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNijqIrqt4oDFQAAAAAdAAAAABAE)
+![Celeste Showcase](https://cdn2.steamgriddb.com/grid/8c433a09bd26b943147c4d9bacb15efc.jpg)
 
 Este é um aplicativo desenvolvido em Visual Basic que faz um showcase de alguns pontos da lore do jogo **Celeste**. O projeto serve para demonstrar aspectos do enredo e dos personagens do jogo de uma maneira interativa.
 
