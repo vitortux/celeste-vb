@@ -1,8 +1,9 @@
 # Celeste VB Showcase
 
-![Celeste Showcase](https://cdn2.steamgriddb.com/grid/8c433a09bd26b943147c4d9bacb15efc.jpg)
-
-Este é um aplicativo desenvolvido em Visual Basic que faz um showcase de alguns pontos da lore do jogo **Celeste**. O projeto serve para demonstrar aspectos do enredo e dos personagens do jogo de uma maneira interativa.
+<div style="display: flex; align-items: center;">
+  <img src="https://steamcdn-a.akamaihd.net/steam/apps/504230/header.jpg" alt="Celeste Image" width="300" style="margin-right: 20px;">
+  <p>Este é um aplicativo desenvolvido em Visual Basic que faz um showcase de alguns pontos da lore do jogo <strong>Celeste</strong>. O projeto serve para demonstrar aspectos do enredo e dos personagens do jogo de uma maneira interativa.</p>
+</div>
 
 ## Tecnologias
 - Visual Basic .NET
